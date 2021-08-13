@@ -11,7 +11,7 @@ Unlocker and Payer havn't finished. So just treat it as a **proxy**.
 ## How to build
 
 ```bash
-git clone https://github.com/maoxs2/ergoPool
+git clone https://github.com/yuriy0803/ergoPool.git
 cd ergoPool
 
 # Run the ergo node, open rpc
